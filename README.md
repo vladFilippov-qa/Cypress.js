@@ -5,4 +5,4 @@
 3. Запустить команду в гитбаше (в папке cypress): `npm install`
 4. Установить cypress (в гитбаше): `npm install cypress --save-dev`
 6. Запускать автотесты командой `npm run test` 
-7. Все новые тесты нужно писать в папке /integration
+7. Все новые тесты в папке /integration /Hawaii
